@@ -1,5 +1,5 @@
 {
-  "name": "nemmo/yii2-attachments",
+  "name": "digisin/yii2-attachments",
   "description": "Extension for file uploading and attaching to the models",
   "type": "yii2-extension",
   "keywords": [
@@ -17,6 +17,12 @@
       "email": "alimzhan.abu@yandex.kz",
       "homepage": "http://alimzhan.kz",
       "role": "Developer"
+    },
+    {
+      "name": "Nicola Tomassoni",
+      "email": "nicola@digisin.it",
+      "homepage": "http://digisin.it",
+      "role": "Developer"
     }
   ],
   "require": {
@@ -31,7 +37,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nemmo\\attachments\\": "src"
+      "digisin\\attachments\\": "src"
     }
   },
   "extra": {
